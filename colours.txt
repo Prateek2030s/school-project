@@ -1,2 +1,5 @@
 a file for colours
 What is this?
+blue
+red
+green
